@@ -1,4 +1,4 @@
-#Intorduction to Science Fiction (English 800)
+#Introduction to Science Fiction (English 800)
 It's rad
 
 ## Required texts
